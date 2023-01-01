@@ -1,4 +1,4 @@
-<h2 align="center">Ibukuoluwa Promise Naphtali</h2>
+<h2 align="center">Ibukunoluwa Promise Naphtali</h2>
 
 ###
 
