@@ -14,30 +14,16 @@
 
 ###
 
-<p align="left">
-  👉 Wanna follow the interesting wonders of ibukunoluwa 😊?
-  <br><br>
-  • <a href="https://twitter.com/ibukunoluwanap/" title="My Twitter Handle">Twitter</a> <img src="https://img.icons8.com/color/24/null/twitter--v1.png" />
-  <br>
-  • <a href="https://instagram.com/ibukunoluwanap/" title="My Instagram Handle">Instagram</a> <img src="https://img.icons8.com/fluency/24/null/instagram-new.png" />
-  <br>
-  • <a href="https://www.linkedin.com/in/ibukunoluwanap/" title="My LinkedIn Handle">LinkedIn</a> <img src="https://img.icons8.com/color/24/null/linkedin-2--v1.png" />
-  <br>
-  • <a href="https://www.facebook.com/ibukunoluwanaphtali" title="My Facebook Handle">Facebook</a> <img src="https://img.icons8.com/color/24/null/facebook-new.png" />
-</p>
-
-###
-
 <p align="center">THAT's all about me Foos. What!!?, I can't hear you? not enough information? Well, dig into the repos and see another universe.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibukunoluwanap&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibukunoluwanap&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" width="400"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibukunoluwanap&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibukunoluwanap&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="440"/>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ibukunoluwanap&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ibukunoluwanap&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" height="295"/>
 </div>
 
 ###
